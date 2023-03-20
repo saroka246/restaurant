@@ -1,0 +1,5 @@
+admin 1234
+login 1234
+newbie password
+dev root
+newLogin pass

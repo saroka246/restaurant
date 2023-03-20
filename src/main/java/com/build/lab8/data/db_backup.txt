@@ -1,0 +1,3 @@
+login 1234
+newbie password
+dev root
